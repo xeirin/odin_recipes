@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    background-color: #FFD580;
+}
+
+.homelist {
+    color: #9CAF88;
+}
+
+.ingredients,
+.steps {
+    background-color: #9ac791;
+}
